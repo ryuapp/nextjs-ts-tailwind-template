@@ -1,3 +1,35 @@
+[日本語](#日本語) | [English](#english)
+
+# 日本語
+これは　[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)　で作成された　[Next.js](https://nextjs.org/)　のプロジェクトです。
+## 始め方
+
+まず開発用サーバーを立ち上げてください
+
+```bash
+npm run dev
+```
+
+ブラウザで　[http://localhost:3000](http://localhost:3000)　を開いてサーバーが立ち上がっているか確認します。  
+`app/page.tsx` を変更することで、ページの編集が行えます。ファイルを編集すると、ページが自動更新されます。  
+このプロジェクトでは　[`next/font`](https://nextjs.org/docs/basic-features/font-optimization) 　を使用して、Googleフォントである Inter を自動的に最適化し、読み込みます。
+
+## もっと知る
+
+Next.js について詳しくは、次のリソースをご覧ください
+
+- [Next.js Documentation](https://nextjs.org/docs) (英語) - Next.js の機能と API について学べます。
+- [Learn Next.js](https://nextjs.org/learn) (英語) - インタラクティブな Next.js チュートリアルです。
+
+Next.jsの[GitHubレポジトリ](https://github.com/vercel/next.js/)をチェックしてください。フィードバックやコントリビュートは大歓迎です。
+
+## Vercel にデプロイする
+
+Next.js を使ったサイトをデプロイする最も簡単な方法は、Next.js の作成者が提供する [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) を使用することです。  
+
+詳細については、[Next.js deployment documentation](https://nextjs.org/docs/deployment) (英語) をご覧ください。
+
+# English
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
