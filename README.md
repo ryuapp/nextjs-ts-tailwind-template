@@ -1,7 +1,7 @@
 [日本語](#日本語) | [English](#english)
 
 # 日本語
-これは　[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)　で作成された　[Next.js](https://nextjs.org/)　のプロジェクトです。
+これは [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) で作成された [Next.js](https://nextjs.org/) のプロジェクトです。
 ## 始め方
 
 まず開発用サーバーを立ち上げてください
@@ -10,9 +10,9 @@
 npm run dev
 ```
 
-ブラウザで　[http://localhost:3000](http://localhost:3000)　を開いてサーバーが立ち上がっているか確認します。  
+ブラウザで [http://localhost:3000](http://localhost:3000) を開いてサーバーが立ち上がっているか確認します。  
 `app/page.tsx` を変更することで、ページの編集が行えます。ファイルを編集すると、ページが自動更新されます。  
-このプロジェクトでは　[`next/font`](https://nextjs.org/docs/basic-features/font-optimization) 　を使用して、Googleフォントである Inter を自動的に最適化し、読み込みます。
+このプロジェクトでは [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) を使用して、Googleフォントである Inter を自動的に最適化し、読み込みます。
 
 ## もっと知る
 
